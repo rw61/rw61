@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rw61
+- 👋 Hi, I’m @rw61, my name is Ihar and I am from Belarus
 - 👀 I’m interested in electronics, programming, microcontrollers programming
 - 🌱 I’m currently learning c- programming by the book of Deitel "How to program on C"
 - I am in self aducation process with the help of books, youtube learning programs, special MCU tematic chats ect.
